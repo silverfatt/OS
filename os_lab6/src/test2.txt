@@ -1,0 +1,11 @@
+create 5
+create 3
+create 6
+create 7
+create 9
+create 8
+kill 6
+exec 6 2 1 2
+create 6
+heartbeat 1000
+exit

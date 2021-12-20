@@ -1,0 +1,8 @@
+create 5
+create 3
+create 6
+exec 2 4 1 2 3 4
+exec 6 3 1 5 6
+kill 6
+create 6
+exit
